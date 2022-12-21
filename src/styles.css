@@ -1,0 +1,54 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
+.list-container {
+  padding: 1rem 1rem;
+  margin: 1rem;
+}
+
+.app-list {
+  list-style: none;
+  background-color: #8860d0;
+  border-radius: 6px;
+  padding: 1rem;
+  margin: 1rem 0rem;
+  text-align: left;
+  width: 70%;
+  border: 2px solid black;
+}
+
+.app-name {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 0.5rem;
+  color: #5d001e;
+}
+
+.app-synopsis {
+  font-size: 15px;
+  padding: 0.5rem;
+  color: #5d001e;
+  font-weight: bold;
+}
+
+.app-rating {
+  font-size: 15px;
+  padding: 0.5rem;
+  color: #5d001e;
+  font-weight: bold;
+}
+
+body {
+  background-color: #c1c8e4;
+}
+
+button {
+  cursor: pointer;
+  background-color: #5680e9;
+  padding: 1rem 1rem;
+  border-radius: 5px;
+  margin: 1rem 2rem;
+}
